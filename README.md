@@ -1,5 +1,5 @@
 
-####JobSync Database Project Overview
+JobSync Database Project Overview
 1. Project Title:
 JobSync: A centralized online job management system.
 
